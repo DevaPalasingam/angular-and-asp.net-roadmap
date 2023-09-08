@@ -1,6 +1,6 @@
 # AngularNet Learning Roadmap
 
-### Angular/C#/ASP.NET/MVC
+## Angular/C#/ASP.NET/MVC
 
 Based on a lot of job postings these days (as of Sept 2023) it seems like this stack is the main industry-standard (i.e. big companies not startups). I tried googling and asking ChatGPT for a name for this stack but I couldn't seem to find one. So, for now, I have dubbed this stack the name **_AngularNet_**.
 
