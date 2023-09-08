@@ -1,8 +1,8 @@
-# Angular/C#/ASP.NET/MVC (**_AngularNet_**) Learning Roadmap
+# **_AngularNet_** (Angular/C#/ASP.NET/MVC) Learning Roadmap
 
 Based on a lot of job postings these days (as of Sept 2023) it seems like this stack is the main industry-standard (i.e. big companies not startups). I tried googling and asking ChatGPT for a name for this stack but I couldn't seem to find one. So, for now, I have dubbed this stack the name **_AngularNet_**.
 
-I intentionally didn't call this repo 'AngularNet' in case someone corrects me and tells me it's name. But until then, I will call it 'AngularNet'.
+I intentionally didn't call this repo AngularNet in case someone corrects me and tells me this stack already has a name. But until then, I will call it AngularNet.
 
 ChatGPT helped me come up with this project-based learning roadmap. I hope this will be helpful to people (and me) who would like to continue/start their career in Full-stack development.
 
