@@ -19,7 +19,7 @@ My hope is to link my own projects and code as I work through this roadmap as we
   - Basic routing and navigation
 - **Description:** Create a simple "Hello World" Angular application that introduces you to the basics of setting up Angular and navigating between different views.
 
-See the code and explanation [here](https://github.com/DevaPalasingam/hello-angular).
+See the code [here](https://github.com/DevaPalasingam/hello-angular).
 
 ## Project 2: Simple Task List Application
 
